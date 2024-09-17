@@ -1,0 +1,10 @@
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\Calculador Moeda\bin\Debug\Calculador Moeda.exe.config
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\Calculador Moeda\bin\Debug\Calculador Moeda.exe
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\Calculador Moeda\bin\Debug\Calculador Moeda.pdb
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\Calculador Moeda\obj\Debug\Calculador Moeda.csproj.AssemblyReference.cache
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\Calculador Moeda\obj\Debug\Calculador_Moeda.frmMoeda.resources
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\Calculador Moeda\obj\Debug\Calculador_Moeda.Properties.Resources.resources
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\Calculador Moeda\obj\Debug\Calculador Moeda.csproj.GenerateResource.cache
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\Calculador Moeda\obj\Debug\Calculador Moeda.csproj.CoreCompileInputs.cache
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\Calculador Moeda\obj\Debug\Calculador Moeda.exe
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\Calculador Moeda\obj\Debug\Calculador Moeda.pdb

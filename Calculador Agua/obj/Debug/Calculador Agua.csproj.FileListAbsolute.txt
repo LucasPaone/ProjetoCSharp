@@ -1,0 +1,10 @@
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\Calculador Agua\bin\Debug\Calculador Agua.exe.config
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\Calculador Agua\bin\Debug\Calculador Agua.exe
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\Calculador Agua\bin\Debug\Calculador Agua.pdb
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\Calculador Agua\obj\Debug\Calculador Agua.csproj.AssemblyReference.cache
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\Calculador Agua\obj\Debug\Calculador_Agua.Properties.Resources.resources
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\Calculador Agua\obj\Debug\Calculador Agua.csproj.GenerateResource.cache
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\Calculador Agua\obj\Debug\Calculador Agua.csproj.CoreCompileInputs.cache
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\Calculador Agua\obj\Debug\Calculador Agua.exe
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\Calculador Agua\obj\Debug\Calculador Agua.pdb
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\Calculador Agua\obj\Debug\Calculador_Agua.frmCalculadorAgua.resources

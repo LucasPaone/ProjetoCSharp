@@ -1,0 +1,10 @@
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\inicio\bin\Debug\inicio.exe.config
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\inicio\bin\Debug\inicio.exe
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\inicio\bin\Debug\inicio.pdb
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\inicio\obj\Debug\inicio.csproj.AssemblyReference.cache
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\inicio\obj\Debug\inicio.frmInicio.resources
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\inicio\obj\Debug\inicio.Properties.Resources.resources
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\inicio\obj\Debug\inicio.csproj.GenerateResource.cache
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\inicio\obj\Debug\inicio.csproj.CoreCompileInputs.cache
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\inicio\obj\Debug\inicio.exe
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\inicio\obj\Debug\inicio.pdb

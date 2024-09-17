@@ -1,0 +1,10 @@
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\Folha Pagamento\bin\Debug\Folha Pagamento.exe.config
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\Folha Pagamento\bin\Debug\Folha Pagamento.exe
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\Folha Pagamento\bin\Debug\Folha Pagamento.pdb
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\Folha Pagamento\obj\Debug\Folha Pagamento.csproj.AssemblyReference.cache
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\Folha Pagamento\obj\Debug\Folha_Pagamento.Properties.Resources.resources
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\Folha Pagamento\obj\Debug\Folha Pagamento.csproj.GenerateResource.cache
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\Folha Pagamento\obj\Debug\Folha Pagamento.csproj.CoreCompileInputs.cache
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\Folha Pagamento\obj\Debug\Folha Pagamento.exe
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\Folha Pagamento\obj\Debug\Folha Pagamento.pdb
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\Folha Pagamento\obj\Debug\Folha_Pagamento.frmPagamento.resources

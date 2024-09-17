@@ -1,0 +1,10 @@
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\EmpresaABC\bin\Debug\EmpresaABC.exe.config
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\EmpresaABC\bin\Debug\EmpresaABC.exe
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\EmpresaABC\bin\Debug\EmpresaABC.pdb
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\EmpresaABC\obj\Debug\EmpresaABC.csproj.AssemblyReference.cache
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\EmpresaABC\obj\Debug\EmpresaABC.frmInicio.resources
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\EmpresaABC\obj\Debug\EmpresaABC.Properties.Resources.resources
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\EmpresaABC\obj\Debug\EmpresaABC.csproj.GenerateResource.cache
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\EmpresaABC\obj\Debug\EmpresaABC.csproj.CoreCompileInputs.cache
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\EmpresaABC\obj\Debug\EmpresaABC.exe
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\EmpresaABC\obj\Debug\EmpresaABC.pdb

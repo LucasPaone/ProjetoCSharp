@@ -1,0 +1,10 @@
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\Taxa Frequencia\bin\Debug\Taxa Frequencia.exe.config
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\Taxa Frequencia\bin\Debug\Taxa Frequencia.exe
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\Taxa Frequencia\bin\Debug\Taxa Frequencia.pdb
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\Taxa Frequencia\obj\Debug\Taxa Frequencia.csproj.AssemblyReference.cache
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\Taxa Frequencia\obj\Debug\Taxa_Frequencia.frmFrequencia.resources
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\Taxa Frequencia\obj\Debug\Taxa_Frequencia.Properties.Resources.resources
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\Taxa Frequencia\obj\Debug\Taxa Frequencia.csproj.GenerateResource.cache
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\Taxa Frequencia\obj\Debug\Taxa Frequencia.csproj.CoreCompileInputs.cache
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\Taxa Frequencia\obj\Debug\Taxa Frequencia.exe
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\Taxa Frequencia\obj\Debug\Taxa Frequencia.pdb

@@ -1,0 +1,10 @@
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\CalculadorIMC\bin\Debug\CalculadorIMC.exe.config
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\CalculadorIMC\bin\Debug\CalculadorIMC.exe
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\CalculadorIMC\bin\Debug\CalculadorIMC.pdb
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\CalculadorIMC\obj\Debug\CalculadorIMC.csproj.AssemblyReference.cache
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\CalculadorIMC\obj\Debug\CalculadorIMC.Properties.Resources.resources
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\CalculadorIMC\obj\Debug\CalculadorIMC.csproj.GenerateResource.cache
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\CalculadorIMC\obj\Debug\CalculadorIMC.csproj.CoreCompileInputs.cache
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\CalculadorIMC\obj\Debug\CalculadorIMC.exe
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\CalculadorIMC\obj\Debug\CalculadorIMC.pdb
+C:\Users\lucas.passis3\Documents\Visual Studio 2019\EmpresaABC\CalculadorIMC\obj\Debug\CalculadorIMC.frmCalculadorIMC.resources
